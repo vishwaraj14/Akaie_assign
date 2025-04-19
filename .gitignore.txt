@@ -1,0 +1,37 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Data and models
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.pkl
+*.joblib
+*.h5
+*.sav
+*.pt
+*.model
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode config
+.vscode/
+
+# Logs
+*.log
+
+# Env files
+.env
